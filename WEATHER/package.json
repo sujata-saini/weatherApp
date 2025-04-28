@@ -1,10 +1,11 @@
 {
-  "name": "WEATHER_PROJECT",
-  "homepage": "https://sujata-saini.github.io/weatherApp",
+  "name": "weather_project",
+  "homepage": "https://github.com/sujata-saini/weatherApp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
